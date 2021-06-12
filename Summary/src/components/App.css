@@ -1,0 +1,94 @@
+/* .App {
+    text-align: center;
+  } */
+ .Button{
+   display:block;
+   margin-bottom:"2px";
+
+ }
+ #ButtonId{
+   width:100%;
+ }
+ #ButtonId1{
+  width:100%;
+}
+#ButtonId2{
+  width:100%;
+}
+ .hh{
+  width:100%;
+  display: block;
+}
+ .Vehicle{
+  width:100%;
+  display: block;
+}
+Form.Label {
+  width: 100%;
+}
+  h2{
+    
+font: normal normal normal 18px/22px Karla;
+letter-spacing: 0px;
+color: #3E3E3E;
+
+  }
+ h6{
+    
+  font: normal normal normal 18px/22px Karla;
+  letter-spacing: 0px;
+  color: #3E3E3E;
+
+  }
+  #fieldvalue{
+    top: 624px;
+    left: 619px;
+    width: 52px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 18px/22px Karla;
+    letter-spacing: 0px;
+    color: #3E3E3E;
+opacity: 1;
+    
+  }
+
+
+  
+  nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    color: white;
+  }
+  
+  .nav-links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  }
+
+  .menu-bar{
+    float: left;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    color: #f2f2f2;
+    background-color: #333;
+}
+
+  .form-field{
+    border-radius: 10px;
+    border-color: #ced4da;
+}
+
+.radio-button{
+  border: 0.5px solid #ced4da;
+  border-radius: 10px;
+  padding: 5px;
+}

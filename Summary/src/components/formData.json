@@ -1,0 +1,338 @@
+[
+    {"Step":"Step 4/4",
+        "page_description": "Please Confirm the details before getting a quote",
+        "page_label": "Confirmation",
+        
+        "fields":[
+            
+               
+               
+                   
+                    {
+                        "field_id": "car_registration_no",
+                        "field_label": "Car Registration No.",
+                        
+                        "field_value": ""
+                       
+                    }  , 
+                    {
+                        "field_id": "car_engine_no",
+                        "field_label": "Car Engiene No.",
+                        "field_value": ""
+                       
+                    }  ,  
+                    {
+                        "field_id": "registration_date",
+                        "field_label": "Registration Date",
+                        "field_value": ""
+                       
+                    },
+                    
+                
+           
+            
+            
+          
+                    {
+                        "field_id": "chasis_no",
+                        "field_label": "Chasis No.",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "car's_manufacturer",
+                        "field_label": "Car's Manufacturer",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "car_model",
+                        "field_label": "Car Model",
+                        "field_value": ""
+                        
+                    },
+                
+           
+            
+           
+                
+                    {
+                        "field_id": "car_modifications",
+                        "field_label": " Modifications done ",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "n_cap_rating",
+                        "field_label": "Car's N-cap Rating",
+                        "field_value": ""
+                        
+                    }
+                ],
+                "fields1":[
+            
+            
+                    {
+                        "field_id": "Gender",
+                        "field_label": "Gender.",
+                        
+                        "field_value": ""
+                       
+                    }  , 
+                    {
+                        "field_id": "Policy_holder_Occupation",
+                        "field_label": "Policy holder Occupation",
+                        "field_value": ""
+                       
+                    }  ,  
+                    {
+                        "field_id": "Policy_holder_Occupation_Industry",
+                        "field_label": " policy holder Industry",
+                        "field_value": ""
+                       
+                    },
+                    
+                
+           
+            
+            
+          
+                    {
+                        "field_id": "policy_holder's_other_occupation",
+                        "field_label": " policy holder's other occupation",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "policy_holder_named_driver_for_the _car",
+                        "field_label": "policy holder be a named driver for the car",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "nominee's_gender ",
+                        "field_label": "nominee's geder ",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "nominee's_date_of_birth ",
+                        "field_label": " nominee's date of birth ",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "full name of the minor nominee's appointee_Id",
+                        "field_label": " full name of the minor nominee's appointee ",
+                        "field_value": ""
+                        
+                    },
+                
+                    {
+                        "field_id": "nominee's relationship with the policy holder_Id",
+                        "field_label": " nominee's relationship with the policy holder ",
+                        "field_value": ""
+                        
+                    }
+                    
+                ],
+
+
+
+
+
+                "About_Driver":[
+            
+            
+                    {
+                        "field_id": "Firstname_Id",
+                        "field_label": "First Name",
+                        
+                        "field_value": ""
+                       
+                    }  , 
+                    {
+                        "field_id": "Lastname_Id",
+                        "field_label": "Last Name",
+                        "field_value": ""
+                       
+                    }  ,  
+                    {
+                        "field_id": "Contactnumber_Id",
+                        "field_label": " Contact Number",
+                        "field_value": ""
+                       
+                    },
+                    
+                
+           
+            
+            
+          
+                    {
+                        "field_id": "Email_Id",
+                        "field_label": "Email",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "Postalcode_Id",
+                        "field_label": "Postal code",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "Addressline1_Id",
+                        "field_label": "AddressLine1 ",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "Addressline2_Id",
+                        "field_label": " AddressLine2 ",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "TownCity_Id",
+                        "field_label": "Town/City ",
+                        "field_value": ""
+                        
+                    },
+                
+                    {
+                        "field_id": "County_Id",
+                        "field_label": "County",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "Licensetype_Id",
+                        "field_label": "Licensetype",
+                        "field_value": ""
+                        
+                    }
+                    
+                ],
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                "fields2":[
+            
+            
+                    {
+                        "field_id": "Policyholder claim Bonus_Id",
+                        "field_label": "Policyholder claim Bonus",
+                        
+                        "field_value": ""
+                       
+                    }  , 
+                    {
+                        "field_id": "Policy holder own or use another vehicle_Id",
+                        "field_label": "Policy holder own or use another vehicle",
+                        "field_value": ""
+                       
+                    }  ,  
+                    {
+                        "field_id": "policy holder  no claim bonus currently protected_Id",
+                        "field_label": "policy holder  no claim bonus currently protected",
+                        "field_value": ""
+                       
+                    },
+                    
+                
+           
+            
+            
+          
+                    {
+                        "field_id": "policy holder like to protect his no claim bonus_Id",
+                        "field_label": " policy holder like to protect his no claim bonus",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "policy holder add cover for breakdown_Id",
+                        "field_label": "policy holder add cover for breakdown",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "policy holder add cover for Electrical accessories_Id ",
+                        "field_label": "policy holder add cover for Electrical accessories ",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "policy holder add cover for non Electrical accessories_Id ",
+                        "field_label": "policy holder add cover for non Electrical accessories",
+                        "field_value": ""
+                        
+                    },
+                    
+                    {
+                        "field_id": "policy holder add cover for CNG fitment_Id",
+                        "field_label": " policy holder add cover for CNG fitment",
+                        "field_value": ""
+                        
+                    },
+                
+                    {
+                        "field_id": "policy holder add Personal Accident Cover _Id",
+                        "field_label": "  policy holder add Personal Accident Cover ",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "policy holder add Personal Accident Cover for paid passengers _Id",
+                        "field_label": " policy holder add Personal Accident Cover for paid passengers ",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "Nmber of paid passengers _Id",
+                        "field_label": "Nmber of paid passengers ",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "Insure for each paid passanger _Id",
+                        "field_label": " Insure for each paid passanger ",
+                        "field_value": ""
+                        
+                    },
+                    {
+                        "field_id": "Personal Accident Cover for unnamed passengers_Id",
+                        "field_label": " Personal Accident Cover for unnamed passengers ",
+                        "field_value": ""
+                        
+                    }
+                    
+                ]
+            
+            
+        
+        
+    }
+]
